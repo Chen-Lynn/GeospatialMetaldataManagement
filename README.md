@@ -1,3 +1,3 @@
 # GeospatialMetaldataManagement
 GLIER Environmental Metadata System
-images/Interactive Map.png
+https://github.com/Chen-Lynn/GeospatialMetaldataManagement/raw/master/images/SearchMetadata.png
