@@ -6,6 +6,6 @@ These are some screenshots from the System below.
 
 ![ScreenShot](https://github.com/Chen-Lynn/GeospatialMetaldataManagement/raw/master/images/GeoNetwork1.png)
 
-![ScreenShot](https://github.com/Chen-Lynn/GeospatialMetaldataManagement/raw/master/images/InteractiveMap.png)
+![ScreenShot](https://github.com/Chen-Lynn/GeospatialMetaldataManagement/raw/master/images/Interactive Map.png)
 
 ![ScreenShot](https://github.com/Chen-Lynn/GeospatialMetaldataManagement/raw/master/images/SearchMetadata.png)
